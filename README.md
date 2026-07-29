@@ -11,3 +11,11 @@ source .venv/bin/activate
 ## API Server URL
 
 http://127.0.0.1:8000/docs
+
+## IMP Git Commands
+
+    git status
+    
+    git add .
+    
+    git commit -m " "
