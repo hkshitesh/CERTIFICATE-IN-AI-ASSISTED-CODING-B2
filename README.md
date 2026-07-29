@@ -18,4 +18,4 @@ http://127.0.0.1:8000/docs
     
     git add .
     
-    git commit -m " "
+    git commit -m "commit message"
