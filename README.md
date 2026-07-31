@@ -16,8 +16,16 @@ http://127.0.0.1:8000/docs
 
 ## IMP Git Commands
 
+    git init
+
     git status
     
     git add .
+
+    git config --global user.name "Your Name"
+
+    git config --global user.email "your.email@example.com"
     
     git commit -m "commit message"
+
+    
